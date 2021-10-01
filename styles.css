@@ -15,11 +15,11 @@ body {
     text-decoration: underline;
 }
 
-.info-text a:active {
+.links a:active {
     color: blue;
 }
 
-.info-text a:visited {
+.links a:visited {
     color: grey;
 }
 
